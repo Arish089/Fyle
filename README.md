@@ -15,7 +15,7 @@
 ![Test Scenario 3](./assets/Screenshot%20(41).png)
 *Description: This screenshot shows the web application after successfully submitting a valid form and the amount is less than 800000. All input fields are filled correctly, and the result is displayed as expected which is no tax charged.*
 
-### Test Scenario 3: Handling tax scenario when (amount > 800000)
+### Test Scenario 4: Handling tax scenario when (amount > 800000)
 ![Test Scenario 4](./assets/Screenshot%20(45).png)
 ![Test Scenario 4](./assets/Screenshot%20(43).png)
 *Description: This screenshot shows the web application after successfully submitting a valid form and the amount is more than 800000. All input fields are filled correctly, and the result is displayed as expected which is tax charged.*
