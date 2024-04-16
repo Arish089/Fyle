@@ -220,5 +220,4 @@ document.getElementById('closebtn').addEventListener('click',()=>{
   document.querySelector('form').reset()
 })
 
- // setupCounter(document.querySelector('#counter'));
 });
