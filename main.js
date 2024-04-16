@@ -217,7 +217,8 @@ document.getElementById('closebtn').addEventListener('click',()=>{
   document.getElementById('error1').className = 'd-none'
   document.getElementById('error2').className = 'd-none'
   document.getElementById('error4').className = 'd-none'
+  document.getElementById('errorDisplay').className = 'd-none'
   document.querySelector('form').reset()
 })
-
+ 
 });
